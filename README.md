@@ -7,7 +7,7 @@ Enter Your Email where write your email and password it required because send ma
 Change In Dbconnect.php
 Enter Your database username and password and whichg database you connect this file it also required database name
 
-We also given database file only import that in your database.
+We also given database file only import that in your database. file name: database.sql
 
 Check Website Demo: http://trywebethon.000webhostapp.com
 Demo Login Email: admin@gmail.com 
