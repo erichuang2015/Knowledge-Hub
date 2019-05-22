@@ -10,3 +10,5 @@ Enter Your database username and password and whichg database you connect this f
 We also given database file only import that in your database.
 
 Check Website Demo: http://trywebethon.000webhostapp.com
+Demo Login Email: admin@gmail.com 
+           Password: admin
