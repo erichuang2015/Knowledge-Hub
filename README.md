@@ -11,4 +11,4 @@ We also given database file only import that in your database. file name: databa
 
 Check Website Demo: http://trywebethon.000webhostapp.com
 Demo Login Email: admin@gmail.com 
-           Password: admin
+           Password: 12345678
